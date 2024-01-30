@@ -1,0 +1,52 @@
+{
+  "cities": [
+    {
+      "cityName": "Dublin",
+      "country": "Ireland",
+      "emoji": "🇮🇪",
+      "date": "2024-01-30T09:16:23.128Z",
+      "notes": "Nice place",
+      "position": {
+        "lat": "53.34399288223422",
+        "lng": "-6.251220703125001"
+      },
+      "id": 98443199
+    },
+    {
+      "cityName": "London",
+      "country": "United Kingdom of Great Britain and Northern Ireland (the)",
+      "emoji": "🇬🇧",
+      "date": "2024-01-30T09:18:11.664Z",
+      "notes": "City of birth",
+      "position": {
+        "lat": "51.46085244645549",
+        "lng": "-0.07690429687500001"
+      },
+      "id": 98443200
+    },
+    {
+      "cityName": "Edinburgh",
+      "country": "United Kingdom of Great Britain and Northern Ireland (the)",
+      "emoji": "🇬🇧",
+      "date": "2024-01-30T09:18:43.826Z",
+      "notes": "Beautiful City",
+      "position": {
+        "lat": "55.946123926300004",
+        "lng": "-3.1585693359375"
+      },
+      "id": 98443201
+    },
+    {
+      "cityName": "Saint Helier",
+      "country": "Jersey",
+      "emoji": "🇯🇪",
+      "date": "2024-01-30T09:19:23.444Z",
+      "notes": "Love Jersey!",
+      "position": {
+        "lat": "49.19516658452546",
+        "lng": "-2.1093750000000004"
+      },
+      "id": 98443202
+    }
+  ]
+}
