@@ -6,7 +6,7 @@ import {
   useCallback,
 } from "react";
 
-const BASE_URL = "http://localhost:9000";
+const BASE_URL = "https://my-json-server.typicode.com/jpowell79/worldwise/";
 
 const CitiesContext = createContext();
 

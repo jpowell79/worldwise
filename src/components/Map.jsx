@@ -56,7 +56,9 @@ function Map() {
       >
         <TileLayer
           attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
-          url="https://{s}.tile.openstreetmap.fr/hot/{z}/{x}/{y}.png"
+          // url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
+
+          url="https://tile.thunderforest.com/atlas/{z}/{x}/{y}.png?apikey=2b51d0c2c3f24aa8b6307d69d0191a8f"
         />
         {cities.map((city) => (
           <Marker
